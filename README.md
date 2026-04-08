@@ -56,8 +56,8 @@ Vantagens:
 
 
 📎 Observações:
-->Para alternar entre a versão protegida e despotegida, reescreva o valor do atributo dentro da tag form no index.pxp.
-< form class " container card" action="sub2.php" method="post">
+->Para alternar entre a versão protegida e despotegida, reescreva o valor do atributo ACTION dentro da tag form no index.pxp.
+< form " container card" action="sub2.php" method="post">
 OU
-<form class "container card" action="sub.php" method="post">
+<form " container card" action="sub.php" method="post">
 ->Projeto com foco educacional para entender fundamentos de backend com PHP e conceitos essenciais de segurança em aplicações web.
